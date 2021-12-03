@@ -1,0 +1,11 @@
+global.primary = '#f37083';
+global.secondary = '#f3a8ca';
+global.secondaryLight = '#ffe6f1';
+global.white = '#ffffff';
+global.border = '#ebebeb';
+global.info = '#b5b5b5';
+global.text = '#707070';
+global.success = '#5c9972';
+global.alert = '#f56827';
+global.background = '#ededed';
+global.black='#000000';
